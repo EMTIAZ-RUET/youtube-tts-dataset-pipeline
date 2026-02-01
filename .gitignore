@@ -1,0 +1,61 @@
+# Audio files (too large for git)
+*.wav
+*.mp3
+*.m4a
+*.webm
+*.opus
+
+# Dataset directories
+ljspeech_dataset/
+ljspeech_dataset_new/
+demucs_temp/
+
+# Cookie files (sensitive)
+*cookies*.txt
+youtube_cookies.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp

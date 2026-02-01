@@ -1,0 +1,6 @@
+yt-dlp
+pydub
+youtube-transcript-api
+numpy
+pandas
+tqdm
